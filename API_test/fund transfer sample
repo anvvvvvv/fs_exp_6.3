@@ -1,0 +1,8 @@
+POST http://localhost:4000/api/transfer
+Content-Type: application/json
+
+{
+  "fromAccount": "A1001",
+  "toAccount": "A1002",
+  "amount": 200
+}
