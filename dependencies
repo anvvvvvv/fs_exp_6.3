@@ -1,0 +1,4 @@
+mkdir account-transfer-system
+cd account-transfer-system
+npm init -y
+npm install express mongoose dotenv
